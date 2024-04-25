@@ -1,0 +1,6 @@
+seaborn
+numpy
+matplotlib
+pandas
+scikit-image
+scikit-learn
